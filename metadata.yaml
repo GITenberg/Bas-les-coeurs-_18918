@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5984
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Darien
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18918#Bas-les-coeurs-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-07-27'
 gutenberg_type: Text
